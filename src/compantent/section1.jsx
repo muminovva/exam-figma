@@ -52,6 +52,7 @@ function Section1() {
             </Col>
             
           </Row>
+          
           <Row>
             <Col lg={5}>
                 <div className='card'>
