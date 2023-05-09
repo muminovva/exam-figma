@@ -9,7 +9,7 @@ const  img15= require("./img/noun_guarantee_2072482 1.png")
 const  img16= require("./img/Vector (16).png")
 const  img17= require("./img/noun_Document_2929551 (1) 1.png")
 const  img18= require("./img/Group (6).png")
-const  img19= require("./img/Group (17).png")
+const  img19= require("./img/Vector (17).png")
 const  img20= require("./img/Group (7).png")
 const  img21= require("./img/noun_Car_2164405 1.png")
 
