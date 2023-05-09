@@ -29,7 +29,7 @@ function Section2() {
             </Col>
             <Col lg={2}>
                 <img src={img12} className='img11' alt="" />
-                <p className='besplatniy'>Выезд на объект в удобное для вас время</p>
+                <p className='besplatniy'> Выезд наa объект в удобное для вас время</p>
             </Col>
             <Col lg={3}>
                 <img src={img13} className='img12' alt="" />
