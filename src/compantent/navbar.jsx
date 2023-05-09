@@ -10,12 +10,12 @@ function Navbar() {
       <Nav className='navbar'>
        <Container>
            <Row>
-    
             <Col  lg={9}>
                 <div className='big'>
                 <i class="fa-solid fa-location-dot"></i>
             <p className='moskva'>г Москва, г Щербинка, Симферопольское шоссе, дом 16 с3</p>
                 </div>
+                <div></div>
         </Col>
         <Col  lg={3}>
                 <div className='big'>
