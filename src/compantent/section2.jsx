@@ -65,7 +65,7 @@ function Section2() {
             </Col>
             <Col lg={2}>
                 <img src={img21} className='img11' alt="" />
-                <p className='besplatniy'>Бесплатная консультация специалиста</p>
+                <p className='besplatniy'>Бесплатная консультация специалиста.</p>
             </Col>
             
           </Row>
