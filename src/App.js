@@ -1,25 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+import "./compantent/navbar"
+import Navbar from "./compantent/navbar";
+import Section1 from './compantent/section1';
+import Section2 from './compantent/section2';
+import Footer from './compantent/footer';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+return(
+  <>
+   <Navbar/>
+   <Section1/>
+   <Section2/>
+   <Footer/>
+  </>
+)
 }
 
 export default App;
